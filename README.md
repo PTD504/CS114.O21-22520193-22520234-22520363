@@ -25,5 +25,8 @@
 
 ## THÀNH VIÊN
 Phan Thanh Đăng - Email: 22520193@gm.uit.edu.vn
+Phùng Văn Đạt - Email: 22520234@gm.uit.edu.vn
+Lê Văn Giáp - Email: 22520363@gm.uit.edu.vn
 
 ## ĐỒ ÁN MÔN HỌC
+**Motocycle Classification**
