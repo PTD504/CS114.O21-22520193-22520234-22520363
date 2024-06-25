@@ -17,6 +17,7 @@
 <a name="Quá trình học"></a>
 * **Làm quen với Python**
 * **Những bài toán ML đơn giản**
+* **Đồ án môn học**
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
